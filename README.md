@@ -1,4 +1,4 @@
-🎬 Aplicación de Búsqueda de Películas 🎥 echale un vistazo 👀 : https://appmoviesreactcathedev.netlify.app/
+🎬 Aplicación de Búsqueda de Películas 🎥 echale un vistazo 👀 : https://appmoviesreactcathedev.netlify.app/🚀
 
 🚀 Tutorial: Búsqueda de Películas en React
 ¡Bienvenido! Este tutorial te guiará a través de la creación de una aplicación de búsqueda de películas utilizando React . La aplicación utiliza la API de The Movie Database (TMDb) para realizar búsquedas de películas y mostrar los resultados en pantalla.
